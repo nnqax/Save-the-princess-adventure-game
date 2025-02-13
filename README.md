@@ -1,0 +1,1 @@
+If you want to try out the code you are encouraged to copy it and try it in visual studio, visual studio code or any compiler but please if in the end of the code there is no code saying "game()" please write it at the end before starting the game to play as it is an important factor
